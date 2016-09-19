@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoffeinaAndroidApp</string>
+    <string name="starbuzz_logo">Logo kafeterii Coffeina</string>
+
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Kafeterie</item>
+    </string-array>
+
+    <string name="title_activity_drink_category">Napoje</string>
+</resources>
