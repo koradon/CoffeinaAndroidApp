@@ -21,7 +21,8 @@ public class TopLevelActivity extends AppCompatActivity {
                                             int position,
                                             long id){
                         if (position == 0){
-                            Intent intent = new Intent(TopLevelActivity.this, DrinkCategoryActivity.class);
+                            Intent intent = new Intent(TopLevelActivity.this,
+                                                       DrinkCategoryActivity.class);
                             startActivity(intent);
                         }
                     }
